@@ -1,0 +1,11 @@
+---
+title: "Final Project Milestone 2"
+author: "Matej Cerman"
+date: "12 2 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+```
+
