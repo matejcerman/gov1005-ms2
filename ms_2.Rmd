@@ -1,5 +1,6 @@
 ---
 title: "Final Project Milestone 2"
+subtitle: "This is my second Milestone for the Gov 1005 Final Project. I look at two past projects below and discuss their strengths and weaknesses."
 author: "Matej Cerman"
 date: "12 2 2020"
 output: html_document
@@ -9,3 +10,9 @@ output: html_document
 knitr::opts_chunk$set(echo = F)
 ```
 
+### Project 1: [Fingerprints of Colonization](https://cshawah.shinyapps.io/Fingerprints_of_Colonization/)
+This project looked at the possible relationship between the past colonization of a country and its current socioeconomic situation, splitting countries into groups by the occupying power. I thought this was a very strong project overall: the visual style is clear and informative, and the project is both easy to navigate and interactive. Another strength of the project that I appreciated was its clarity about data sources and possible difficulties with interpreting the data. Namely, the project cites complex historical reasons that make it hard to determine which country was the last occupying power as the key obstacle. This shows the potential limitations right away and serves as a guide for the viewer.
+
+A possible weakness of the project is the limited timespan of some of its data. The bottom plots in the *Economy,* *Education,* and *Quality of Life* sections only include data points going back to 1990 or 2000. This is an important downside, since these plots are crucial for showing the long-term effects of colonization on the current conditions in the colonized countries. Yet a 20- or 30-year timespan might not be enough for viewing long-term trends and might be susceptible to random noise, which makes infering causality difficult.
+
+### Project 2: 
